@@ -5,5 +5,9 @@ between 1 and 100.
 
 The spending score closer to 2 shows 'less declined spends' and closer to 100 shows 'more declined spends'.
 
-#GOAL
+#GOAL:
 To segment their clients in 2 different groups based on their Annual income and Spending Score.
+
+The data is clustered using two different clustering methods ,i.e;
+1.Hierachical clustering 
+2.k-means clustering.
