@@ -1,4 +1,4 @@
-# mall_customers_spending_score_prediction
+# mall_customers_spending_score_
 In a mall ,they provide a membership card to their clients that shows the customer info in it .
 When clients buy with that card ,the mall recieves a spending score according to that data and takes values 
 between 1 and 100.
